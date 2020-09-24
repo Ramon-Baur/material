@@ -26,6 +26,7 @@ A common algorithm for peak calling is __MACS2__. The distance between those two
  * bubibyte
  * Sann5
  * mjemons
+ * Ramon-Baur
 
 ### Resources:
 - David S. Johnson et al., “Genome-Wide Mapping of in Vivo Protein-DNA Interactions,” Science 316, no. 5830 (June 8, 2007): 1497–1502, doi:10.1126/science.1141319.
